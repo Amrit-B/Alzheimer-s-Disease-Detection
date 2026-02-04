@@ -5,7 +5,7 @@ from torch.utils.data import DataLoader, random_split
 import random
 import os
 
-# --- Import from your src folder ---
+# --- Import from src folder ---
 from src.model import SimpleCNN
 from src.dataset import MedicalImageDataset
 
