@@ -7,7 +7,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import torch
 
-# --- Professional Imports ---
+# --- Imports ---
 from src.model import SimpleCNN
 from src.dataset import MedicalImageDataset
 
