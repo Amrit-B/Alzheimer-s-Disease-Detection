@@ -1,7 +1,7 @@
+streamlit
 torch
 torchvision
-nibabel
 numpy
+opencv-python-headless
 matplotlib
-opencv-python
-scikit-learn
+Pillow
